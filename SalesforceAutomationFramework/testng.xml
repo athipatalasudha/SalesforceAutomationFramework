@@ -39,9 +39,7 @@
         <include name="TC31()"></include>
         <include name="TC32()"></include>
         <include name="TC33()"></include>
-        <include name="TC34()"></include>
-	   <include name="TC35()"/>
-        
+        <include name="TC34()"></include>        
       </methods>
       </class>
     </classes>
